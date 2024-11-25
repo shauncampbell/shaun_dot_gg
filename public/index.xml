@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaun Campbell</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Shaun Campbell</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Nov 2024 22:45:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scout Climate</title>
+      <link>http://localhost:1313/experience/scout-climate/</link>
+      <pubDate>Sun, 24 Nov 2024 22:45:37 -0500</pubDate>
+      <guid>http://localhost:1313/experience/scout-climate/</guid>
+      <description>&lt;p&gt;I joined Scout Climate when it was freshly spun out of Forum Ventures and our staff roster included just myself and&#xA;our founder and started to learn about the crazy world of government grants. The initial months of this role was spent&#xA;just trying to bring some order to the chaos in that every grant looked different, had different requirements, provided&#xA;different information, had different deadlines. Eventually though, I was able to learn enough about it to start building&#xA;an initial prototype in Svelte for the frontend and Python on the backend based on some designs we had been provided.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zuva</title>
+      <link>http://localhost:1313/experience/zuva/</link>
+      <pubDate>Thu, 01 Sep 2022 22:36:31 -0500</pubDate>
+      <guid>http://localhost:1313/experience/zuva/</guid>
+      <description>&lt;p&gt;In this role I expanded on the work myself and our team had performed at Kira and ultimately released the&#xA;&lt;a href=&#34;https://zuva.ai/api/&#34;&gt;DocAI product&lt;/a&gt;. This was effectively an API wrapper and orchestration layer around&#xA;a series of machine learning models which extracted information from legal contracts. Most of my time was&#xA;spent tracking down issues that customers were experiencing due to the scale and size of their requests.&lt;/p&gt;&#xA;&lt;p&gt;Customers would upload large documents (generally in PDF or DOCX format) via the API and then we used &lt;a href=&#34;https://knative.dev&#34;&gt;KNative&lt;/a&gt; to orchestrate&#xA;those requests through the system, first converting them into a useful format and then instantiating the&#xA;appropriate machine learning models to extract data from them, and then return those results to the user&#xA;in an asynchronous fashion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kira Systems</title>
+      <link>http://localhost:1313/experience/kira-systems/</link>
+      <pubDate>Mon, 02 Mar 2020 22:30:35 -0500</pubDate>
+      <guid>http://localhost:1313/experience/kira-systems/</guid>
+      <description>&lt;p&gt;Arriving in Canada at the end of February 2020, I started at Kira Systems, in their Toronto office on March 2nd.&#xA;By the end of the next week, I would be working remotely and that continues to this day.&lt;/p&gt;&#xA;&lt;p&gt;Starting at Kira, I was working in a newly formed team with initially just two members. Myself and my manager.&#xA;This team would be working on a new API product which would be written in Golang instead of the Clojure stack that&#xA;permeated the rest of the company. This was my first foray into Golang and so it took me a bit to get up to speed but&#xA;once we did we made fast progress on the product.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MongoDB</title>
+      <link>http://localhost:1313/experience/mongodb/</link>
+      <pubDate>Thu, 01 Mar 2018 22:23:36 -0500</pubDate>
+      <guid>http://localhost:1313/experience/mongodb/</guid>
+      <description>&lt;p&gt;As a Consulting Engineer, I took part in various different engagements all of which was customer facing.&#xA;My customers were all over Europe and was mostly on-site though remote engagements did happen from time to&#xA;time.&lt;/p&gt;&#xA;&lt;p&gt;One common engagement would be to spend 2 or 3 days delivering various training courses to customer&amp;rsquo;s staff&#xA;and then spend the remainder of the week helping them to perform various tasks such as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Memex Technology Ltd → SAS R&amp;D Scotland</title>
+      <link>http://localhost:1313/experience/sas-rd-scotland/</link>
+      <pubDate>Fri, 01 Jul 2011 22:09:13 -0500</pubDate>
+      <guid>http://localhost:1313/experience/sas-rd-scotland/</guid>
+      <description>&lt;p&gt;Starting initially as a Graduate Software Engineer when it was called Memex Technology Ltd and based in East Kilbride -&#xA;I worked on a wide range of projects during my tenure. In my early years, I worked extensively on site  on a collaborative&#xA;project with a large UK Police Force to ensure server side upgrades went smoothly and to test out disaster recovery and data&#xA;ingestion worked smoothly. When I wasn&amp;rsquo;t on site with the customer, I would be working on features and bugs based on my experience&#xA;on site. I would be routinely working between C based server side applications, with newer Java web services running on top and also&#xA;C# based UI extensions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
