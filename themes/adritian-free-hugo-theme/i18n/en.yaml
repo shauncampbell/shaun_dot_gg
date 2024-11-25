@@ -1,0 +1,156 @@
+## Header
+- id: "logo_text1"
+  translation: "Shaun"
+
+- id: "logo_text2"
+  translation: "Campbell"
+
+## Footer
+- id: "footer_notice"
+  translation: "© Adritian. Free Hugo theme by Adrián Moreno Peña."
+
+- id: "language"
+  translation: "Language"
+
+## Homepage head title
+- id: "head_title"
+  translation: "Shaun Campbell - Head of Engineering @ Scout Climate"
+
+- id: "head_description"
+  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Hello, I’m Shaun."
+
+- id: "showcase_subtitle"
+  translation: "Head of Engineering"
+
+- id: "showcase_description"
+  translation: "Made in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 but now living in 🇨🇦. I work at <a href='https://scoutclimate.com'>Scout Climate</a>, where we're building the next generation of grant matching and writing tools using AI.<br />I have worked as a Software Engineers in a wide range of industries including public security, databases, legal tech and now grant writing."
+
+- id: "showcase_button"
+  translation: "Contact"
+
+## Homepage about
+- id: "about_title"
+  translation: "Who am I?"
+
+- id: "about_content"
+  translation: <p class="lead">
+    Here you can add some information about you. A small excerpt that describes
+    your experience, for example.
+    </p>
+    <p class="lead">
+    You explain something about your academic/study background, as well as your
+    preferred areas of work. Think of this area as context-setting for the experience
+    that you will describe below. Why did you change jobs? What drove you to take a
+    new gig? Even if you are not looking for a job, it's a good way to hint about
+    what kind of projects you are interested in.
+    </p>
+
+- id: "about_button"
+  translation: "About Me"
+
+## Homepage education
+- id: "education_title"
+  translation: "Education"
+
+## Homepage experience
+- id: "experience_title"
+  translation: "Experience"
+
+- id: "experience_description"
+  translation: "This is where you can highlight a bit over your experience. Years of total experience, specialization, etc."
+
+- id: "experience_button"
+  translation: "LinkedIn"
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/shauncampbell89/"
+
+- id: "experience_button2"
+  translation: "Download my resume"
+
+- id: "experience_button2_url"
+  translation: ""
+
+- id: "experience_button3"
+  translation: "View all"
+
+- id: "experience_button3_url"
+  translation: "/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Clients & Work"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Newsletter"
+
+- id: "newsletter_button"
+  translation: "Subscribe"
+
+- id: "newsletter_placeholder"
+  translation: "Your email"
+
+- id: "newsletter_success_message"
+  translation: "Thank you for subscribing to my newsletter!"
+
+- id: "newsletter_error_message"
+  translation: "An error occurred. Please try again."
+
+- id: "newsletter_note"
+  translation: "We'll never share your email with anyone else."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Contact"
+
+- id: "contact_button"
+  translation: "Send message"
+
+- id: "contact_form_name"
+  translation: "Full Name"
+
+- id: "contact_form_email"
+  translation: "Email Address"
+
+- id: "contact_form_message"
+  translation: "Type Your Message Here"
+
+- id: "contact_phone_title"
+  translation: "Phone Number"
+
+- id: "contact_phone_number"
+  translation: "+555 (11) 123 44 55"
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:mail@example.com">mail@shaun.gg</a>'
+
+- id: "contact_address_title"
+  translation: "Address"
+
+- id: "contact_address_address"
+  translation: "Hamilton, ON, Canada"
+
+- id: "contact_button"
+  translation: "Send Message"
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: "Published en"
+
+- id: "continue_reading"
+  translation: "Continue reading"
